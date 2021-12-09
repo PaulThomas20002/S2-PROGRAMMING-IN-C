@@ -25,7 +25,7 @@ Basics of Computer Architecture: processor, Memory, Input& Output devices
 Application Software & System software: Compilers, interpreters, High level and low level languages
 Introduction to structured approach to programming, Flow chart Algorithms, Pseudo code (bubble
 sort, linear search - algorithms and pseudocode)<br>
-
+<br>
 Module 2<br>
 Program Basics<br>
 Basic structure of C program: Character set, Tokens, Identifiers in C, Variables and Data Types ,
@@ -36,13 +36,13 @@ Precedence<br>
 Control Flow Statements: If Statement, Switch Statement, Unconditional Branching using goto
 statement, While Loop, Do While Loop, For Loop, Break and Continue statements.(Simple programs
 covering control flow)<br>
-
+<br>
 Module 3<br>
 Arrays and strings<br>
 Arrays Declaration and Initialization, 1-Dimensional Array, 2-Dimensional Array
 String processing: In built String handling functions (strlen, strcpy, strcat and strcmp, puts, gets)
 Linear search program, bubble sort program, simple programs covering arrays and strings
-<br>
+<br><br>
 Module 4<br>
 Working with functions<br>
 Introduction to modular programming, writing functions, formal parameters, actual parameters
